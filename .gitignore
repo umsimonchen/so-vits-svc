@@ -151,3 +151,12 @@ configs/config.json
 filelists/test.txt
 filelists/train.txt
 filelists/val.txt
+./hubert/checkpoint_best_legacy_500.pt
+./logs/44k_selected/eval/events.out.tfevents.1684148774.autodl-container-b9bc118352-5949b0f0.214.1
+./logs/44k_selected/eval/events.out.tfevents.1684291012.autodl-container-b9bc118352-5949b0f0.506270.1
+./logs/44k_selected/events.out.tfevents.1686815686.autodl-container-e8d911b1fa-a480b430.430.1
+./logs/44k_selected/G_176800.pth
+./logs/44k_selected/D_275200.pth
+./logs/44k_selected/G_275200.pth
+./logs/44k_selected/D_176800.pth
+./pretrain/hubert-soft-0d54a1f4.pt

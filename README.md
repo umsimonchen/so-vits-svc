@@ -1,3 +1,17 @@
+---
+## Reproduce my own model
+Download and put large files to certain places [Google Drive](https://drive.google.com/drive/folders/1-HNTyslRwuWDIHj14yOsYwaS9U7UWAm9?usp=drive_link):
+checkpoint_best_legacy_500.pt $\Rightarrow$ .\hubert\
+events.out.tfevents.1684148774.autodl-container-b9bc118352-5949b0f0.214.1
+events.out.tfevents.1684291012.autodl-container-b9bc118352-5949b0f0.506270.1 $\Rightarrow$ .\logs\44k_selected\eval\
+events.out.tfevents.1686815686.autodl-container-e8d911b1fa-a480b430.430.1 $\Rightarrow$ .\logs\44k_selected\
+G_176800.pth
+D_275200.pth
+G_275200.pth
+D_176800.pth $\Rightarrow$ .\logs\44k_selected\
+hubet-soft-0d54a1f4.pt $\Rightarrow$ .\pretrain\
+---
+
 # SoftVC VITS Singing Voice Conversion
 
 In the field of Singing Voice Conversion, there is not only one project, SoVitsSvc, but also many other projects, which will not be listed here. The project was officially discontinued for maintenance and Archived.

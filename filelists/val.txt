@@ -1,4 +1,2 @@
-./dataset/44k/nyaru/000003.wav
-./dataset/44k/nyaru/000007.wav
-./dataset/44k/taffy/000558.wav
-./dataset/44k/taffy/000556.wav
+./dataset/44k/eason/3_eason (3)_(Vocals)_5.wav
+./dataset/44k/eason/31_eason (31)_(Vocals)_4.wav
