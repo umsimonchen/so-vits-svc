@@ -1,11 +1,11 @@
 ## Reproduce my own model
 
-Download and put large files to certain places [Google Drive](https://drive.google.com/drive/folders/1-HNTyslRwuWDIHj14yOsYwaS9U7UWAm9?usp=drive_link):\
+Download and put large files to certain places [Google Drive](https://drive.google.com/drive/folders/1-HNTyslRwuWDIHj14yOsYwaS9U7UWAm9?usp=drive_link):
 
-checkpoint_best_legacy_500.pt $\Rightarrow$ <b> .\hubert\ </b> \\
+checkpoint_best_legacy_500.pt $\Rightarrow$ <b> .\hubert\ </b> \
 
 events.out.tfevents.1684148774.autodl-container-b9bc118352-5949b0f0.214.1 \
-events.out.tfevents.1684291012.autodl-container-b9bc118352-5949b0f0.506270.1 $\Rightarrow$ <b> .\logs\44k_selected\eval\ </b> \
+events.out.tfevents.1684291012.autodl-container-b9bc118352-5949b0f0.506270.1 $\Rightarrow$ <b> .\logs\44k_selected\eval\ </b>
 
 events.out.tfevents.1686815686.autodl-container-e8d911b1fa-a480b430.430.1 $\Rightarrow$ <b> .\logs\44k_selected\ </b> \
 
